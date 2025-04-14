@@ -23,7 +23,7 @@ During my academic career, I've honed my abilities in:
 
 In my spare time, I'm dedicated to continuous learning, exploring new data analysis tools and techniques, and tackling challenging problems through data. I thrive in both collaborative and independent environments, driven by the satisfaction of uncovering valuable insights.
 
-[My CV (PDF)]([link-to-your-cv.pdf](https://github.com/aniketryback/aniketryback/blob/main/Aniket%20Majumder%20CV.pdf))
+[My CV (PDF)](https://github.com/aniketryback/aniketryback/blob/main/Aniket%20Majumder%20CV.pdf)
 
 ## Portfolio Projects
 
