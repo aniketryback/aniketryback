@@ -83,7 +83,6 @@ This repository showcases my skills and progress in Data Analytics and Data Scie
 
 ### Tableau
 
-*(Link to your Tableau Public profile or embedded visualizations will be added here)*
 [Go to Tableau](https://public.tableau.com/app/profile/aniket.majumder/vizzes)
 
 ### Power BI
