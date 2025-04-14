@@ -65,7 +65,7 @@ This repository showcases my skills and progress in Data Analytics and Data Scie
     * **Description:** This project demonstrates fundamental SQL skills by analyzing a sample dataset representing transactions from an online bookstore. The project involves creating a database schema, populating it with sample data, performing data cleaning and transformation tasks, and finally, conducting basic data analysis to gain insights into book sales and customer behavior.
     * **Skills:** DDL, DML Queries, CTEs, Joins
     * **Technology:** SQL Server
-    * **Code:** [Bookstore Analysis Project.sql]([SQL-Bookstore-Analysis](https://github.com/aniketryback/SQL-Bookstore-Analysis))
+    * **Code:** [Bookstore Analysis Project.sql](https://github.com/aniketryback/SQL-Bookstore-Analysis)
 
 
 ### R
