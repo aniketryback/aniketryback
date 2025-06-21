@@ -1,4 +1,4 @@
-# Aniket Majumder - Data Analyst & Aspiring Data Scientist Portfolio
+# Aniket Majumder - Aspiring Data Engineer's Portfolio
 
 [![LinkedIn](https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](http://www.linkedin.com/in/aniketmajumder)
 [![Email](https://img.shields.io/badge/Gmail-aniketryback%40gmail.com-d44638?style=for-the-badge&logo=gmail&logoColor=white)](mailto:aniketryback@gmail.com)
