@@ -11,7 +11,7 @@ Hi, I'm Aniket — an aspiring Data Engineer currently working at Cognizant in t
 
 I'm passionate about building scalable data pipelines, automating data flows, and using data to solve meaningful problems. I'm also actively practicing DSA to prepare for long-term goals including FAANG-level roles.
 
-[📄 View My Resume (PDF)](https://github.com/aniketryback/aniketryback/blob/main/Aniket%20Majumder%20CV.pdf)
+[📄 View My Resume (PDF)](https://github.com/aniketryback/aniketryback/blob/main/Aniket_Majumder_Resume_June_2025.pdf)
 
 ---
 
