@@ -17,6 +17,18 @@ I'm passionate about building scalable data pipelines, automating data flows, an
 
 ## 🚀 Data Engineering Projects
 
+### 🌫️ Air Quality Data Pipeline (India Cities)
+🔹 A complete data engineering pipeline that pulls live AQI data from WAQI API for multiple cities, transforms and cleans the data, and visualizes PM2.5 levels.
+
+- Built in Python using `requests`, `pandas`, `matplotlib`, and `seaborn`
+- Automatically detects latest data files, cleans missing/null entries
+- Visualizes AQI trends with city-wise bar plots
+- Folder-based ETL structure with scope for S3/Streamlit/Airflow extensions
+
+📍[View Project Repository](https://github.com/aniketryback/air-quality-pipeline)
+
+---
+
 ### 🪙 Crypto Price Tracker — Python + CoinGecko API
 
 **Repo**: [Crypto Price Tracker](https://github.com/aniketryback/crypto-price-tracker)
