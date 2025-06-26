@@ -25,7 +25,7 @@ I'm passionate about building scalable data pipelines, automating data flows, an
 - Visualizes AQI trends with city-wise bar plots
 - Folder-based ETL structure with scope for S3/Streamlit/Airflow extensions
 
-📍[View Project Repository](https://github.com/aniketryback/air-quality-pipeline)
+📍[View Project Repository](https://github.com/aniketryback/air-quality-data-pipeline)
 
 ---
 
