@@ -1,101 +1,70 @@
-# Aniket Majumder — Aspiring Data Engineer's Portfolio
+# 👋 Hello, I'm Aniket Majumder — Aspiring Data Engineer
 
-[![LinkedIn](https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge\&logo=linkedin\&logoColor=white)](http://www.linkedin.com/in/aniketmajumder)
-[![Email](https://img.shields.io/badge/Gmail-aniketryback%40gmail.com-d44638?style=for-the-badge\&logo=gmail\&logoColor=white)](mailto:aniketryback@gmail.com)
-
----
-
-## 👋 About Me
-
-Hi, I'm Aniket — an aspiring Data Engineer currently working at Cognizant in the data domain. My work gives me close visibility into enterprise-scale data pipelines, AWS environments, and Airflow DAGs. Outside work, I'm focused on upskilling through real-world projects and hands-on experience with modern data engineering tools.
-
-I'm passionate about building scalable data pipelines, automating data flows, and using data to solve meaningful problems. I'm also actively practicing DSA to prepare for long-term goals including FAANG-level roles.
-
-[📄 View My Resume (PDF)](https://github.com/aniketryback/aniketryback/blob/main/Aniket_Majumder_Resume_June_2025.pdf)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Aniket%20Majumder-blue?style=for-the-badge&logo=linkedin)](https://linkedin.com/in/aniketmajumder)
+[![Email](https://img.shields.io/badge/Gmail-aniketryback%40gmail.com-d44638?style=for-the-badge&logo=gmail&logoColor=white)](mailto:aniketryback@gmail.com)
 
 ---
 
-## 🚀 Data Engineering Projects
+## 👨‍💻 About Me
 
-### 🌫️ Air Quality Data Pipeline (India Cities)
-🔹 A complete data engineering pipeline that pulls live AQI data from WAQI API for multiple cities, transforms and cleans the data, and visualizes PM2.5 levels.
+I'm currently working in the data domain at **Cognizant**, with hands-on exposure to multiple production data pipelines and AWS services. While I monitor and support real-world pipelines by day, I build my own data projects by night.
 
-- Built in Python using `requests`, `pandas`, `matplotlib`, and `seaborn`
-- Automatically detects latest data files, cleans missing/null entries
-- Visualizes AQI trends with city-wise bar plots
-- Folder-based ETL structure with scope for S3/Streamlit/Airflow extensions
-
-📍[View Project Repository](https://github.com/aniketryback/air-quality-data-pipeline)
+I’m passionate about cloud-first data engineering, solving real-world ETL problems, and constantly leveling up my skills with projects and hands-on learning. My dream is to break into **MAANG-level companies** as a rock-solid Data Engineer.
 
 ---
 
-### 🪙 Crypto Price Tracker — Python + CoinGecko API
+## 🛠️ Tech Stack
 
-**Repo**: [Crypto Price Tracker](https://github.com/aniketryback/crypto-price-tracker)
-**Description**: Real-time price tracker for cryptocurrencies using CoinGecko API. Logs prices with timestamps to CSV and plots a price trend chart using Matplotlib.
+**Languages & Tools:**  
+![Python](https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white)
+![Pandas](https://img.shields.io/badge/Pandas-150458?style=flat&logo=pandas&logoColor=white)
+![SQL](https://img.shields.io/badge/SQL-005C84?style=flat&logo=sqlite&logoColor=white)
+![AWS](https://img.shields.io/badge/AWS%20S3-232F3E?style=flat&logo=amazon-aws)
+![boto3](https://img.shields.io/badge/boto3-FF9900?style=flat&logo=python&logoColor=white)
+![Matplotlib](https://img.shields.io/badge/Matplotlib-008080?style=flat)
+![Seaborn](https://img.shields.io/badge/Seaborn-2C2D72?style=flat)
+![Git](https://img.shields.io/badge/Git-F05032?style=flat&logo=git&logoColor=white)
+![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat&logo=docker&logoColor=white)
 
-* Python, Requests, Pandas, Matplotlib
-* JSON API parsing, time-series logging, automated chart generation
-
----
-
-### 🛒 Amazon Price Monitor — Python + Web Scraping
-
-**Repo**: [Amazon Price Tracker](https://github.com/aniketryback/amazon-price-tracker)
-**Description**: Scrapes product title and price from Amazon using BeautifulSoup. Logs historical prices and generates trend visualizations.
-
-* Python, Requests, BeautifulSoup, Pandas
-* Error handling for dynamic HTML, time-series data handling
-
----
-
-### 🌦️ Weather Tracker — Python + OpenWeatherMap API
-
-**Repo**: [Weather Tracker](https://github.com/aniketryback/weather-tracker)
-**Description**: ETL project that pulls live weather data via API and logs it with timestamps. Visualizes last 10 readings using Matplotlib.
-
-* Python, Requests, Pandas, Matplotlib
-* Modular ETL setup (ingest, transform, load)
+*Currently Learning:*  
+![PySpark](https://img.shields.io/badge/PySpark-E25A1C?style=flat&logo=apache-spark&logoColor=white)  
+🧠 Also exploring: Data Modeling, Airflow, Redshift, Glue
 
 ---
 
-### 📦 Upcoming: Mini Data Lake Project (Simulated)
+## 📂 Portfolio Projects
 
-**Status**: In progress
-**Description**: A simulated data lake architecture using Airflow, local folder zones, and modular Python ETL scripts. Mimics raw → processed pipeline using scheduled DAGs and SQL validation.
-
----
-
-## 🧠 Tech Stack
-
-* **Languages**: Python, SQL
-* **Libraries**: Pandas, NumPy, Matplotlib, BeautifulSoup
-* **Cloud**: AWS (S3, Athena), learning Snowflake
-* **Orchestration**: Airflow (basic monitoring + self-learned project usage)
-* **Visualization**: Tableau
-* **Tools**: Git, VS Code, Jupyter, GitHub
+| Project | Description | Stack |
+|--------|-------------|-------|
+| [🌫️ Air Quality Data Pipeline](https://github.com/aniketryback/air-quality-pipeline) | Fetches multi-city PM2.5 AQI data via API, transforms and cleans it, then auto-uploads to **AWS S3** | Python, Pandas, Seaborn, boto3, S3 |
+| [☁️ Weather Tracker](https://github.com/aniketryback/weather-tracker) | Live temperature + humidity tracker with CSV history and plotted chart | Python, requests, matplotlib |
+| [🛒 Amazon Price Tracker](https://github.com/aniketryback/amazon-price-tracker) | Scrapes price for an Amazon product, stores price history and plots trend | Python, BeautifulSoup, pandas |
+| [🪙 Crypto Tracker](https://github.com/aniketryback/crypto-price-tracker) | Tracks live price of Bitcoin, saves and visualizes changes | Python, CoinGecko API |
+| [🧪 COVID Mini ETL](https://github.com/aniketryback/mini-covid-project) | Basic CSV load → clean → filter → save pipeline | Python, pandas |
 
 ---
 
-## 🎓 Education
+## 🧭 Current Goals
 
-**B.Tech in Computer Science Engineering**
-Future Institute of Engineering and Management, Kolkata (2018–2022)
-
----
-
-## 📜 Certifications
-
-* AWS Certified Cloud Practitioner (Sep 2023 – Sep 2026)
-* Microsoft Certified: Power BI Data Analyst Associate (May 2024)
+- 🔁 Convert more pipelines to **cloud-native versions**
+- ⚙️ Build first **PySpark project** with S3 as source
+- 📈 Practice **DSA daily** for MAANG-level prep
+- 🧰 Add orchestration with **Airflow/Docker**
 
 ---
 
-## 📬 Contact
+## 📄 Resume
 
-* **LinkedIn**: [@AniketMajumder](http://www.linkedin.com/in/aniketmajumder)
-* **Email**: [aniketryback@gmail.com](mailto:aniketryback@gmail.com)
+[📥 Download My Resume (PDF)](https://github.com/aniketryback/aniketryback/blob/main/Aniket%20Majumder%20CV.pdf)
 
 ---
 
-> This README reflects my active portfolio as I transition from support work into hands-on Data Engineering. I'm constantly learning and building — feel free to connect!
+## 📫 Reach Out
+
+- 💼 [LinkedIn](https://linkedin.com/in/aniketmajumder)
+- 📧 aniketryback@gmail.com
+
+---
+
+_“One pipeline at a time, I’m turning ambition into action.”_
+
