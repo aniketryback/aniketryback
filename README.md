@@ -55,7 +55,7 @@ I’m passionate about cloud-first data engineering, solving real-world ETL prob
 
 ## 📄 Resume
 
-[📥 Download My Resume (PDF)](https://github.com/aniketryback/aniketryback/blob/main/Aniket%20Majumder%20CV.pdf)
+[📥 Download My Resume (PDF)](https://github.com/aniketryback/aniketryback/blob/main/Aniket_Majumder_Resume_June_2025.pdf)
 
 ---
 
