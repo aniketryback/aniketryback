@@ -37,10 +37,12 @@ I’m passionate about cloud-first data engineering, solving real-world ETL prob
 | Project | Description | Stack |
 |--------|-------------|-------|
 | [🌫️ Air Quality Data Pipeline](https://github.com/aniketryback/air-quality-data-pipeline) | Fetches multi-city PM2.5 AQI data via API, transforms and cleans it, then auto-uploads to **AWS S3** | Python, Pandas, Seaborn, boto3, S3 |
+| [🌦️ Weather ETL Airflow Pipeline](https://github.com/aniketryback/weather-etl-pipeline) | Daily DAG that pulls live weather data via API, transforms it, and loads into **PostgreSQL** via Airflow | Airflow, Python, PostgreSQL, Docker |
 | [☁️ Weather Tracker](https://github.com/aniketryback/weather-tracker) | Live temperature + humidity tracker with CSV history and plotted chart | Python, requests, matplotlib |
 | [🛒 Amazon Price Tracker](https://github.com/aniketryback/amazon-price-tracker) | Scrapes price for an Amazon product, stores price history and plots trend | Python, BeautifulSoup, pandas |
 | [🪙 Crypto Tracker](https://github.com/aniketryback/crypto-price-tracker) | Tracks live price of Bitcoin, saves and visualizes changes | Python, CoinGecko API |
 | [🧪 COVID Mini ETL](https://github.com/aniketryback/mini-covid-project) | Basic CSV load → clean → filter → save pipeline | Python, pandas |
+
 
 ---
 
